@@ -74,6 +74,45 @@ my-app
 
 ```
 
+## Contributing guide 👊
+
+Thanks for showing interest to contribute to Create Webdev App 💖, you guys rock!
+
+Follow the directions below to setup your project and contribute to this repository.
+
+1. Fork the repo ( Click on <kbd>Fork</kbd> button at top right of [this page](https://github.com/pritudev/create-webdev-app) )
+
+2. Clone your fork locally
+
+```bash
+git clone https://github.com/<YOUR_GITHUB_USERNAME>/create-webdev-app.git
+cd create-webdev-app
+```
+
+3. Setup all the dependencies and packages
+
+```bash
+npm install
+```
+
+Once you submit a PR (Pull Request), we'll respond as soon as possible so we can take a look at what you've made!
+
+## Making a Pull Request? 🔁
+
+That's **awesome**! Start by following the instructions given earlier of how to run this project on your system locally.
+
+Then, commit and push your changes:
+
+```bash
+git add .
+git commit -m "My commit message"
+git push
+```
+
+Once finished, you can create a pull request!
+
+Is it your first time? Check out [this link](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) to learn how to submit a pull request.
+
 ## Think you found a bug? 🐛
 
 Please [submit an issue](https://github.com/pritudev/create-webdev-app/issues/new) and **provide a clear path to reproduction with a code example**.
@@ -86,7 +125,7 @@ Create Webdev App is open source software [licensed as MIT](https://github.com/p
 
 ---
 
-### Like my work?
+## Like my work?
 
 Give a star to repo.
 

@@ -127,6 +127,12 @@ Create Webdev App is open source software [licensed as MIT](https://github.com/p
 
 ## Like my work?
 
+Give a star to repo.
+
+<a href="https://github.com/pritudev/create-webdev-app">
+<img style="border-radius: 5px;" src="https://user-images.githubusercontent.com/75468116/135848893-bf1d8fb6-3037-4cb9-a577-a02bae8867ea.png" width="140" alt="Give star on Github" />
+</a>
+
 <a href="https://ko-fi.com/pritu" target="_blank"><img style="" src="https://cdn.discordapp.com/attachments/867419109574049802/893774739653402624/5cbed8a4ae2b88347c06c923_BuyMeACoffee_blue.png" alt="Buy Me A Coffee" width="250" ></a>
 
 Made with 💖 by [@Pritudev](https://github.com/pritudev)
