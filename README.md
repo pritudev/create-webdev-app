@@ -62,7 +62,7 @@ Don't need all the crazy frameworks and tools? Start fresh with a minimal HTML, 
 
 By running the simple CLI, you can generate a folder structure like so:
 
-```
+```bash
 my-app
 ├─ src
 │  ├─ css
@@ -71,7 +71,8 @@ my-app
 │  │  ├─ index.js
 │  ├─ html
 │  │  ├─ index.html
-
+│  ├─ .gitignore
+│  ├─ README.md
 ```
 
 ## Contributing guide 👊
