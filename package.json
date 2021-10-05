@@ -1,6 +1,6 @@
 {
   "name": "create-webdev-app",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Powerful command line interface to generate a web developer starter app in few seconds ⚡",
   "main": "bin/index.js",
   "bin": {

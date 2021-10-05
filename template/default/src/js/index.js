@@ -1,1 +1,3 @@
 // Type your codes...
+
+console.log('Generated with create-webdev-app');
