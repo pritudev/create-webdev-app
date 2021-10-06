@@ -5,7 +5,6 @@ Powerful command line interface to generate a web developer starter app in few s
 <p align="center">
 
 ![Downloads](https://img.shields.io/npm/dm/create-webdev-app.svg?style=flat)
-![Size](https://packagephobia.now.sh/badge?p=create-webdev-app)
 ![Version](https://img.shields.io/npm/v/create-webdev-app.svg?style=flat)
 
 ![Github Stars](https://img.shields.io/github/stars/pritudev/create-webdev-app?style=social)
