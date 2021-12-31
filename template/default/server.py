@@ -6,7 +6,7 @@ class Serv(BaseHTTPRequestHandler):
     def do_GET(self):
         try:
             file_to_open = open(os.path.abspath(
-                'template/default/src/html/index.html')).read()
+                'src/html/index.html')).read()
             self.send_response(200)
             print('\n\n\n\n\n\n\n\n\n\n')
             print('Compiled  successfully!\n')
